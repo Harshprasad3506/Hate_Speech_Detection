@@ -1,0 +1,17 @@
+{
+    "algorithm": "LinearSVC",
+    "feature_extraction": "TF-IDF",
+    "test_size": 0.2,
+    "random_state": 42,
+    "max_features": 10000,
+    "ngram_range": [
+        1,
+        2
+    ],
+    "svm_c": 1.0,
+    "training_timestamp": "2026-09-18 01:29:57",
+    "accuracy": 0.8868267097034497,
+    "precision": 0.8736527517609263,
+    "recall": 0.8868267097034497,
+    "f1_score": 0.8759990038512753
+}
